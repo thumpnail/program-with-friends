@@ -5,21 +5,15 @@ using System.Text;
 using System.IO;
 using System.Threading.Tasks;
 using Ini.Net;
-using Newtonsoft.Json;
-using ClosedXML;
-using EN_DE_CRYPT;
-using log4net;
+using Meds;
+using System.Windows.Forms;
 
 namespace Meds {
     class Program {
         static void Main(string[] args) {
             Console.Title = "Medicine";
-
-            Medicine morphine = new Medicine("Morphine", false, 0.0);
-            Medicine anabolika = new Medicine("Anabolika", false, 15.0);
-            Medicine test = new Medicine();
-            anabolika.UseMedicine();
-            Console.ReadLine();
+            Application.EnableVisualStyles();
+            Application.Run(new MainForm());
         }
     }
     
