@@ -1,0 +1,17 @@
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\Meds.exe.config
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\Meds.exe
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\Meds.pdb
+C:\Users\Moritz\source\repos\Meds\Meds\obj\Debug\Meds.csprojAssemblyReference.cache
+C:\Users\Moritz\source\repos\Meds\Meds\obj\Debug\Meds.csproj.CoreCompileInputs.cache
+C:\Users\Moritz\source\repos\Meds\Meds\obj\Debug\Meds.exe
+C:\Users\Moritz\source\repos\Meds\Meds\obj\Debug\Meds.pdb
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\ClosedXML.dll
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\EN-DE-CRYPT.dll
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\EntityFramework.dll
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\Ini.Net.dll
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\log4net.dll
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\Renci.SshNet.dll
+C:\Users\Moritz\source\repos\Meds\Meds\bin\Debug\WaitLib.dll
+C:\Users\Moritz\source\repos\Meds\Meds\obj\Debug\Meds.csproj.CopyComplete
