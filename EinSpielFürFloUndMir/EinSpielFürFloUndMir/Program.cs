@@ -8,7 +8,7 @@ namespace EinSpielFürFloUndMir {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine();
-            Console .WriteLine("einfach moritz reicht...") ;
+            Console .WriteLine("einfach moritz reicht... test") ;
         }
     }
 }
