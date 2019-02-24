@@ -8,6 +8,7 @@ namespace EinSpielFürFloUndMir {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine();
+            Console .WriteLine("Moritz findet Buffsuki mega GEIL") ;
         }
     }
 }
